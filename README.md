@@ -33,7 +33,7 @@ Park ||  an area of natural
 
 US ||  a constitutional federal republic composed of 50 states
 
-For custom:
+**For custom:**
 
 Chinese || Thing
 
