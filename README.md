@@ -16,27 +16,43 @@ Custom entities top counts:  [('Chinese', 17), ('Malaysian police', 6), ('North 
 For NE chunks:
 
 So || Thing
+
 South ||  a noun
+
 South Korea ||  a sovereign state in East Asia
+
 North ||  one of the four cardinal directions or compass points
+
 North Korea ||  a country in East Asia
+
 Korean || Thing
+
 Image ||  an artifact that depicts visual perception
+
 Park ||  an area of natural
+
 US ||  a constitutional federal republic composed of 50 states
-Kim || Thing
 
 For custom:
 
 Chinese || Thing
+
 Malaysian police ||  a
+
 North Korean leader ||  a list of political leaders of North Korea
+
 Chinese tourists ||  greatly expanded over the last few decades since the beginning of reform and opening
+
 Korean protesters || Thing
+
 Chinese territory ||  a term for types of administrative division
+
 Chinese missiles || Thing
+
 South Korean Navy ||  the naval warfare service branch of the South Korean armed forces
+
 North Korean missile range ||  also fired a number of short-range missiles into the Sea of Japan
+
 North Korean business representatives ||  that the likely number of excess deaths between 1993 and 2000 was 500,000 to 600,000
 
 # Issues
